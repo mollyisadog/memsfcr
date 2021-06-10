@@ -1,0 +1,16 @@
+Hello, I could do with a little help 
+
+My Elise is using a K series engine with MEMS 1.9, I have a serial cable with FTDI chipset, this cable works OK with an OTG USB cable on my Android tablet using MEMS_Diag
+
+The other day I downloaded MemsFCR for my MacBook Air running macOS Big Sur, I connected the FTDI chipset cable to my MEMS 1.9  and the other end with the USB A  plug to a USB A to USB C adaptor and in turn connected this to my MacBook Air opened up MemsFCR and with the engine OFF I clicked Connect button 
+
+Under this button a box appeared  saying to check the cable as there was no connection
+
+With the cable still plugged in I started the engine and went back to the laptop and clicked on the Connect Botton once more and the same message appeared, I made sure the connection at both ends were well connected a few times  but I  got no further
+
+My question is, do I need to ad another cable between this connection and my MacBook Air or do I need another cable USB connector between the USB plug on the  FTDI chipset cable and my MacBook Air?
+
+Something like this OTG/USB connector
+
+[url=https://postimg.cc/TyfKQVbC][img]https://i.postimg.cc/Zqy6bj5t/Screenshot-2021-06-10-at-1-19-10-am.png[/img][/url]
+
